@@ -145,7 +145,9 @@ _Frontend: Netlify (free)_
 
 **Example**
 
+![Add Recipient Preview](images/encryptedimage1.png)
 
+![Encrypted Chat Preview](images/encryptedimage2.png)
 
 
 ---
