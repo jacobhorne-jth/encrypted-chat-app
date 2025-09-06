@@ -23,6 +23,10 @@ Frontend: https://encrypted-chat-app-frontend.netlify.app/
 
 Backend: https://encrypted-chat-app-api-hxe2.onrender.com
 
+
+**Note:** This project was completed `Apr - May 2025`; the code was developed locally and pushed in one batch to GitHub (not committed sequentially during development).
+
+
 ---
 
 **Features**
