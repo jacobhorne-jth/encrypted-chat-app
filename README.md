@@ -5,8 +5,6 @@ Clients generate RSA keypairs, exchange an AES-GCM session key via RSA-OAEP, and
 
 **Live Demo: https://encrypted-chat-app-frontend.netlify.app/**
 
-_(If your Netlify slug differs, replace the URL above.)_]
-
 **Important**
 
 For the demo, click the live demo link above twice and open two tabs. Register two users (ex. user1 and user2) and add each other as reciepients to fully test the app's capabilities and observe the encrypted chatting.
